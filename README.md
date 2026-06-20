@@ -2,6 +2,6 @@
 
 android development
 
-todolist   Android app 
+todolist   Android app (project 1)
 
-alarm  Android app
+alarm  Android app (project 2)
